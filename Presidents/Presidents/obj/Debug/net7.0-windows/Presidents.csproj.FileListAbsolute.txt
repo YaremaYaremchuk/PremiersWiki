@@ -1,0 +1,16 @@
+C:\Users\301279227\Desktop\Presidents\Presidents\bin\Debug\net7.0-windows\Presidents.exe
+C:\Users\301279227\Desktop\Presidents\Presidents\bin\Debug\net7.0-windows\Presidents.deps.json
+C:\Users\301279227\Desktop\Presidents\Presidents\bin\Debug\net7.0-windows\Presidents.runtimeconfig.json
+C:\Users\301279227\Desktop\Presidents\Presidents\bin\Debug\net7.0-windows\Presidents.dll
+C:\Users\301279227\Desktop\Presidents\Presidents\bin\Debug\net7.0-windows\Presidents.pdb
+C:\Users\301279227\Desktop\Presidents\Presidents\obj\Debug\net7.0-windows\Presidents.Form1.resources
+C:\Users\301279227\Desktop\Presidents\Presidents\obj\Debug\net7.0-windows\Presidents.csproj.GenerateResource.cache
+C:\Users\301279227\Desktop\Presidents\Presidents\obj\Debug\net7.0-windows\Presidents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\301279227\Desktop\Presidents\Presidents\obj\Debug\net7.0-windows\Presidents.AssemblyInfoInputs.cache
+C:\Users\301279227\Desktop\Presidents\Presidents\obj\Debug\net7.0-windows\Presidents.AssemblyInfo.cs
+C:\Users\301279227\Desktop\Presidents\Presidents\obj\Debug\net7.0-windows\Presidents.csproj.CoreCompileInputs.cache
+C:\Users\301279227\Desktop\Presidents\Presidents\obj\Debug\net7.0-windows\Presidents.dll
+C:\Users\301279227\Desktop\Presidents\Presidents\obj\Debug\net7.0-windows\refint\Presidents.dll
+C:\Users\301279227\Desktop\Presidents\Presidents\obj\Debug\net7.0-windows\Presidents.pdb
+C:\Users\301279227\Desktop\Presidents\Presidents\obj\Debug\net7.0-windows\Presidents.genruntimeconfig.cache
+C:\Users\301279227\Desktop\Presidents\Presidents\obj\Debug\net7.0-windows\ref\Presidents.dll
